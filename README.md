@@ -1,5 +1,8 @@
 # Dont-Make-Me-Laugh
 基于Unity实现：双人对抗横板卷轴滚动游戏，红色方玩家对麦克风输入声音进行角色的上下移动，蓝色方玩家在屏幕的右侧区域进行障碍物放置，阻挡红色方玩家的前进。
+## 基础信息
++ 游戏引擎：Unity 2022.3.14f1c1
++ 渲染管线：HDRP
 
 # 游戏机制
 ![image](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/dce25af4-7eee-47a1-adbe-d496c5d203c1)
@@ -17,6 +20,7 @@
 障碍物2：L型
 障碍物3：T型
 障碍物4：方型
+
 ![BasicBlockImage1](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/1ab20c21-1185-4512-9552-4e32aae40a2d)
 ![BasicBlockImage2](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/1bbc98ef-1f56-4e9a-9971-6893130bad26)
 ![BasicBlockImage3](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/96f2f65e-9d04-4ae1-9adf-b1457585b68d)
@@ -27,6 +31,12 @@
 + 弹力球：同样可以选择方向，放置后会向选定的方向发射出去并且能够在场景上下边界和障碍物之间进行反弹，弹力球击中玩家A的时候玩家B会获得笑脸值（待定）并且会将玩家在Y方向上击退
 + 慢速螺旋桨：十字形的长螺旋桨，很大，放置后能够缓慢转动
 + 方块心脏：会周期性变大的方块型障碍物，最小状态较小，最大状态较大，方块心脏变大的时候速度较慢，变小速度很快
+
+![ArrowImage](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/3bb5e783-c3a4-4af2-b6c5-21db72932274)
+![PowerballImage](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/bbd31924-8112-4a37-bcec-d45dbfc4f5cc)
+![PropellerImage](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/c96fb6a5-31b4-49c8-98d5-83805c92e41e)
+![HeartImageObject](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/f7a54892-a9f3-46a7-9c9e-2245976977ff)
+
 
 # 玩家B的得分机制
 ## 破坏：有些障碍物在玩家A控制的角色碰撞上了之后就会摧毁，此时玩家B得分
