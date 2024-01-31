@@ -32,8 +32,7 @@
 
 ![ArrowImage](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/3bb5e783-c3a4-4af2-b6c5-21db72932274)
 ![PowerballImage](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/bbd31924-8112-4a37-bcec-d45dbfc4f5cc)
-![PropellerImage](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/c96fb6a5-31b4-49c8-98d5-83805c92e41e)
-![HeartImageObject](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/f7a54892-a9f3-46a7-9c9e-2245976977ff)
+
 
 
 # 玩家B的得分机制
