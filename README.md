@@ -23,8 +23,6 @@
 
 ![BasicBlockImage1](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/1ab20c21-1185-4512-9552-4e32aae40a2d)
 ![BasicBlockImage2](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/1bbc98ef-1f56-4e9a-9971-6893130bad26)
-![BasicBlockImage3](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/96f2f65e-9d04-4ae1-9adf-b1457585b68d)
-![BasicBlockImage4](https://github.com/satsuki-64/Dont-Make-Me-Laugh/assets/49782051/d835de8d-be52-4175-9795-21b2025b9ac7)
 
 ## 拓展障碍物：
 + 箭：玩家B从选择栏中选中之后能够放置在生成区内，通过旋转来选择瞄准方向，放置后能够将箭发射出去，在箭击中目标前，能够根据角色的位置进行角度修正
